@@ -22,12 +22,12 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/r2.jpg" class="d-block w-75" alt="2">
+                        <img src="/images/r2.JPG" class="d-block w-75" alt="2">
                         <div class="carousel-caption d-none d-md-block">
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/images/r3.jpg" class="d-block w-75" alt="3">
+                        <img src="/images/r3.JPG" class="d-block w-75" alt="3">
                         <div class="carousel-caption d-none d-md-block">
                         </div>
                     </div>
